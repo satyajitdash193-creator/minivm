@@ -1,0 +1,1 @@
+C:\Users\satya\rust_project\minivm\target\debug\minivm.exe: C:\Users\satya\rust_project\minivm\src\assembler.rs C:\Users\satya\rust_project\minivm\src\disassembler.rs C:\Users\satya\rust_project\minivm\src\isa.rs C:\Users\satya\rust_project\minivm\src\main.rs C:\Users\satya\rust_project\minivm\src\vm.rs
